@@ -1,32 +1,32 @@
-# IntelliJ IDEA
+# IntelliJ IDEA project files
 .idea/
 
-# קבצי קומפילציה
+# Compilation output directories
 bin/
 out/
 *.class
 
-# קבצי פרויקט של IntelliJ
+# IntelliJ project files
 *.iml
 
-# קבצי ZIP
+# Ignore all ZIP files
 *.zip
 
-# התעלמות מכל קובצי JAR חוץ מ-biuoop-1.4.jar
+# Ignore all JAR files except biuoop-1.4.jar
 *.jar
 !biuoop-1.4.jar
 
-# קובצי Checkstyle
+# Checkstyle configuration files
 checkstyle.xml
 checkstyle-*.jar
 
-# קבצי לוגים
+# Log files
 *.log
 
-# קבצים זמניים
+# Temporary files
 tmp/
 temp/
 
-# קובצי מערכת
+# System files
 .DS_Store
 Thumbs.db
