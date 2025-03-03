@@ -17,7 +17,7 @@ It is implemented in **Java**, following **Object-Oriented Programming (OOP)** p
 ### **Running the Game**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/YourUsername/IntroductionToOOP-ArkanoidGame.git
+   git clone https://github.com/DanielMich99/IntroductionToOOP-ArkanoidGame.git
    cd IntroductionToOOP-ArkanoidGame
    ```
 2. Compile the project using **Ant**:  
@@ -34,9 +34,9 @@ It is implemented in **Java**, following **Object-Oriented Programming (OOP)** p
 ## 📁 **Project Structure**  
 ```
 📛 IntroductionToOOP-ArkanoidGame
- ├ 📚 src              # Source code
- ├ 📚 bin              # Compiled classes
- ├ 📚 resources        # Game assets (if applicable)
+ ├ 📂 src              # Source code
+ ├ 📂 bin              # Compiled class files
+ ├ 📄 biuoop-1.4.jar   # External library for graphics
  ├ 📄 build.xml        # Ant build script
  ├ 📄 .gitignore       # Git ignore rules
  ├ 📄 README.md        # Project documentation
@@ -52,15 +52,8 @@ It is implemented in **Java**, following **Object-Oriented Programming (OOP)** p
 ---
 
 ## 👨‍💻 **Authors**  
-- **Your Name** *(Replace with your actual name)*  
-- **Bar-Ilan University, 2025**  
-
----
-
-## 🎯 **Future Improvements**  
-- Add **more levels**  
-- Improve **animations and visual effects**  
-- Implement **power-ups and special abilities**  
+- **Daniel Michaelshvili**   
+- **Bar-Ilan University, 2022**  
 
 ---
 
