@@ -1,4 +1,3 @@
-//207795030 Daniel Michaelshvili
 
 import biuoop.GUI;
 import biuoop.Sleeper;

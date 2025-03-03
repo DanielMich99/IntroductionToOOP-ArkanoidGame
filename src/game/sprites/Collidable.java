@@ -1,4 +1,4 @@
-//207795030 Daniel Michaelshvili
+
 
 package game.sprites;
 
