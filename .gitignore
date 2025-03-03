@@ -1,5 +1,7 @@
 # IntelliJ IDEA project files
 .idea/
+*.iml
+ass6.iml
 
 # Compilation output directories
 bin/
